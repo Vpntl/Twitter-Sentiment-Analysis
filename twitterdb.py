@@ -14,11 +14,12 @@ from http.client import IncompleteRead
 
 
 
+//Your twitter application credentials
+consumer_key = "***************************"
+consumer_secret = "************************************************"
+access_token = "*************************************************"
+access_token_secret = "************************************************"
 
-consumer_key = "Vt43tIrwitoHKF1U9QsqF8cEw"
-consumer_secret = "YDMoR1JBS35EXBaHF4lueS64IZLwKQueuJ6sfwzL3c9YEd8wLU"
-access_token = "1223126275524481025-hGLxtL9YIyO35J1YYgoiLYxniIqiAy"
-access_token_secret = "ifdE6E3pVGXK9bdLtYmhMh0Dczn5rTeF0AWBTBLGPT9QO"
 password = ""
 
 
